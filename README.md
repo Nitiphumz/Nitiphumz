@@ -7,7 +7,7 @@ Web Developer
 I've been learning Angular&Typescript for 6 month, and I am currently seeking new job opportunities.
 
 * 🌍  I'm based in Phetchabun & Sapankwai Bangkok Thailand
-* ✉️  You can contact me at [bkzmatokung@gmail.com](mailto:bkzmatokung@gmail.com)
+* ✉️  You can contact me at [nitiphumiintakanok@gmail.com](mailto:nitiphumiintakanok@gmail.com)
 * 🧠  I'm learning Angular , Vue.js , React.js , Golang
 
 ### Skills
